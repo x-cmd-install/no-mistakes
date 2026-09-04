@@ -1,0 +1,59 @@
+about:
+  description: git push no-mistakes
+  license: MIT
+  homepage: https://kunchenguid.github.io/no-mistakes/
+  head: 36b3876
+  archived: false
+  latestVersion: v1.65.0
+  collectedAt: 2026-09-04T04:17:14Z
+timeline:
+  created: 2026-04-05
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-03
+popularity:
+  star: 8279
+  watcher: 71
+  fork: 839
+  release: 136
+  contributor: 59
+  pullRequest: 215
+  issue: 221
+language:
+  Go: 7595238
+  Makefile: 5455
+  Shell: 2600
+  Tape: 1398
+totalLine: 7604691
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 30
+    mergedPR: 108
+    openPR: 37
+    closedIssue: 31
+    openIssue: 60
+    commit: 117
+  last90d:
+    since: 2026-06-06
+    release: 83
+    mergedPR: 291
+    openPR: 41
+    closedIssue: 100
+    openIssue: 113
+    commit: 279
+  last180d:
+    since: 2026-03-08
+    release: 100
+    mergedPR: 518
+    openPR: 41
+    closedIssue: 106
+    openIssue: 115
+    commit: 608
+  last360d:
+    since: 2025-09-09
+    release: 100
+    mergedPR: 518
+    openPR: 41
+    closedIssue: 106
+    openIssue: 115
+    commit: 608
