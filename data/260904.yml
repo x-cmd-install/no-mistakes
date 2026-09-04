@@ -7,7 +7,7 @@ about:
   head: cba4572
   archived: false
   latestVersion: v1.65.2
-  collectedAt: 2026-09-04T19:24:12Z
+  collectedAt: 2026-09-04T21:08:46Z
 timeline:
   created: 2026-04-05
   lastCommit: 2026-09-04
@@ -15,7 +15,7 @@ timeline:
 popularity:
   star: 8291
   watcher: 71
-  fork: 844
+  fork: 843
   release: 138
   contributor: 60
   pullRequest: 742
@@ -31,7 +31,7 @@ recent:
     since: 2026-08-05
     release: 32
     mergedPR: 113
-    openPR: 37
+    openPR: 36
     closedIssue: 32
     openIssue: 62
     commit: 122
@@ -39,7 +39,7 @@ recent:
     since: 2026-07-06
     release: 60
     mergedPR: 216
-    openPR: 39
+    openPR: 38
     closedIssue: 65
     openIssue: 103
     commit: 216
@@ -47,7 +47,7 @@ recent:
     since: 2026-06-06
     release: 85
     mergedPR: 296
-    openPR: 41
+    openPR: 40
     closedIssue: 103
     openIssue: 113
     commit: 284
@@ -55,7 +55,7 @@ recent:
     since: 2026-03-08
     release: 100
     mergedPR: 523
-    openPR: 41
+    openPR: 40
     closedIssue: 109
     openIssue: 115
     commit: 613
@@ -63,7 +63,7 @@ recent:
     since: 2025-09-09
     release: 100
     mergedPR: 523
-    openPR: 41
+    openPR: 40
     closedIssue: 109
     openIssue: 115
     commit: 613
@@ -71,17 +71,75 @@ recent:
     since: 2024-09-14
     release: 100
     mergedPR: 523
-    openPR: 41
+    openPR: 40
     closedIssue: 109
     openIssue: 115
     commit: 614
 total:
   release: 138
   mergedPR: 523
-  openPR: 41
+  openPR: 40
   closedIssue: 109
   openIssue: 115
   commit: 614
 ---
+path: /home/runner/.x-repo/github.com/kunchenguid/no-mistakes
+collectedAt: 2026-09-04T21:08:48Z
+loc:
+  Go:
+    code: 186463
+    comments: 18088
+    blanks: 19522
+    files: 712
+  Json:
+    code: 8748
+    comments: 0
+    blanks: 0
+    files: 10
+  Sh:
+    code: 117
+    comments: 22
+    blanks: 26
+    files: 2
+  Makefile:
+    code: 86
+    comments: 19
+    blanks: 17
+    files: 1
+  JavaScript:
+    code: 60
+    comments: 0
+    blanks: 1
+    files: 1
+  PowerShell:
+    code: 34
+    comments: 0
+    blanks: 9
+    files: 1
+  TypeScript:
+    code: 6
+    comments: 0
+    blanks: 1
+    files: 1
+  Css:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4953
+    blanks: 2236
+    files: 31
+  Text:
+    code: 0
+    comments: 88
+    blanks: 90
+    files: 2
+total:
+  code: 195726
+  comments: 23191
+  blanks: 21943
+  files: 762
 ---
 
