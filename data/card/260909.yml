@@ -1,0 +1,148 @@
+about:
+  description: "git push no-mistakes"
+  license: MIT
+  homepage: https://kunchenguid.github.io/no-mistakes/
+  head: 53ceb81
+  archived: false
+  latestVersion: "v1.72.0"
+  latestRelease: "v1.70.1"
+  latestPrerelease: "v1.72.0"
+  collectedAt: 2026-09-09T02:29:31Z
+timeline:
+  created: 2026-04-05
+  lastCommit: 2026-09-09
+  lastVersion: 2026-09-08
+  lastRelease: 2026-09-07
+  lastPrerelease: 2026-09-08
+popularity:
+  star: 8356
+  watcher: 66
+  fork: 847
+  release: 149
+  contributor: 64
+  pullRequest: 783
+  issue: 240
+language:
+  Go: 8313941
+  Makefile: 5455
+  Shell: 2600
+  Tape: 1398
+totalBytes: 8323394
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 40
+    mergedPR: 140
+    openPR: 29
+    closedIssue: 39
+    openIssue: 64
+    commit: 0
+  last60d:
+    since: 2026-07-11
+    release: 68
+    mergedPR: 230
+    openPR: 29
+    closedIssue: 71
+    openIssue: 105
+    commit: 0
+  last90d:
+    since: 2026-06-11
+    release: 84
+    mergedPR: 298
+    openPR: 30
+    closedIssue: 111
+    openIssue: 114
+    commit: 0
+  last180d:
+    since: 2026-03-13
+    release: 100
+    mergedPR: 559
+    openPR: 30
+    closedIssue: 123
+    openIssue: 117
+    commit: 0
+  last360d:
+    since: 2025-09-14
+    release: 100
+    mergedPR: 559
+    openPR: 30
+    closedIssue: 123
+    openIssue: 117
+    commit: 0
+  last720d:
+    since: 2024-09-19
+    release: 100
+    mergedPR: 559
+    openPR: 30
+    closedIssue: 123
+    openIssue: 117
+    commit: 650
+total:
+  release: 149
+  mergedPR: 559
+  openPR: 30
+  closedIssue: 123
+  openIssue: 117
+  commit: 650
+---
+path: /home/runner/.x-repo/github.com/kunchenguid/no-mistakes
+collectedAt: 2026-09-09T02:29:33Z
+loc:
+  Go:
+    code: 199735
+    comments: 19162
+    blanks: 20480
+    files: 757
+  Json:
+    code: 8748
+    comments: 0
+    blanks: 0
+    files: 10
+  Sh:
+    code: 117
+    comments: 22
+    blanks: 26
+    files: 2
+  Makefile:
+    code: 86
+    comments: 19
+    blanks: 17
+    files: 1
+  JavaScript:
+    code: 60
+    comments: 0
+    blanks: 1
+    files: 1
+  PowerShell:
+    code: 34
+    comments: 0
+    blanks: 9
+    files: 1
+  TypeScript:
+    code: 6
+    comments: 0
+    blanks: 1
+    files: 1
+  Css:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 5209
+    blanks: 2373
+    files: 32
+  Text:
+    code: 0
+    comments: 88
+    blanks: 90
+    files: 2
+total:
+  code: 209057
+  comments: 24522
+  blanks: 23047
+  files: 808
+---
+
+---
