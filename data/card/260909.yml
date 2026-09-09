@@ -2,26 +2,26 @@ about:
   description: "git push no-mistakes"
   license: MIT
   homepage: https://kunchenguid.github.io/no-mistakes/
-  head: 53ceb81
+  head: ccf6640
   archived: false
-  latestVersion: "v1.72.0"
+  latestVersion: "v1.73.0"
   latestRelease: "v1.70.1"
-  latestPrerelease: "v1.72.0"
-  collectedAt: 2026-09-09T02:29:31Z
+  latestPrerelease: "v1.73.0"
+  collectedAt: 2026-09-09T18:19:56Z
 timeline:
   created: 2026-04-05
   lastCommit: 2026-09-09
-  lastVersion: 2026-09-08
+  lastVersion: 2026-09-09
   lastRelease: 2026-09-07
-  lastPrerelease: 2026-09-08
+  lastPrerelease: 2026-09-09
 popularity:
-  star: 8356
-  watcher: 66
-  fork: 847
-  release: 149
+  star: 8378
+  watcher: 63
+  fork: 852
+  release: 150
   contributor: 64
-  pullRequest: 783
-  issue: 240
+  pullRequest: 787
+  issue: 245
 language:
   Go: 8313941
   Makefile: 5455
@@ -31,62 +31,62 @@ totalBytes: 8323394
 recent:
   last30d:
     since: 2026-08-10
-    release: 40
-    mergedPR: 140
-    openPR: 29
-    closedIssue: 39
-    openIssue: 64
-    commit: 0
+    release: 41
+    mergedPR: 141
+    openPR: 30
+    closedIssue: 40
+    openIssue: 68
+    commit: 146
   last60d:
     since: 2026-07-11
-    release: 68
-    mergedPR: 230
-    openPR: 29
-    closedIssue: 71
-    openIssue: 105
-    commit: 0
+    release: 69
+    mergedPR: 231
+    openPR: 30
+    closedIssue: 72
+    openIssue: 109
+    commit: 231
   last90d:
     since: 2026-06-11
-    release: 84
-    mergedPR: 298
-    openPR: 30
-    closedIssue: 111
-    openIssue: 114
-    commit: 0
+    release: 85
+    mergedPR: 299
+    openPR: 31
+    closedIssue: 112
+    openIssue: 118
+    commit: 298
   last180d:
     since: 2026-03-13
     release: 100
-    mergedPR: 559
-    openPR: 30
-    closedIssue: 123
-    openIssue: 117
-    commit: 0
+    mergedPR: 560
+    openPR: 31
+    closedIssue: 124
+    openIssue: 121
+    commit: 650
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 559
-    openPR: 30
-    closedIssue: 123
-    openIssue: 117
-    commit: 0
+    mergedPR: 560
+    openPR: 31
+    closedIssue: 124
+    openIssue: 121
+    commit: 650
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 559
-    openPR: 30
-    closedIssue: 123
-    openIssue: 117
-    commit: 650
+    mergedPR: 560
+    openPR: 31
+    closedIssue: 124
+    openIssue: 121
+    commit: 651
 total:
-  release: 149
-  mergedPR: 559
-  openPR: 30
-  closedIssue: 123
-  openIssue: 117
-  commit: 650
+  release: 150
+  mergedPR: 560
+  openPR: 31
+  closedIssue: 124
+  openIssue: 121
+  commit: 651
 ---
 path: /home/runner/.x-repo/github.com/kunchenguid/no-mistakes
-collectedAt: 2026-09-09T02:29:33Z
+collectedAt: 2026-09-09T18:20:00Z
 loc:
   Go:
     code: 199735
@@ -130,8 +130,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 5209
-    blanks: 2373
+    comments: 5214
+    blanks: 2380
     files: 32
   Text:
     code: 0
@@ -140,8 +140,8 @@ loc:
     files: 2
 total:
   code: 209057
-  comments: 24522
-  blanks: 23047
+  comments: 24527
+  blanks: 23054
   files: 808
 ---
 
