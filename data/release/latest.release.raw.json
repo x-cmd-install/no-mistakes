@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 630,
       "digest": "sha256:4aeaa2469499b7013fd6bc0a8d7a74e3f929ceea2d3ac7a2cc1079917cccf918",
-      "download_count": 275,
+      "download_count": 324,
       "created_at": "2026-09-08T13:14:02Z",
       "updated_at": "2026-09-08T13:14:02Z",
       "browser_download_url": "https://github.com/kunchenguid/no-mistakes/releases/download/v1.72.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15370137,
       "digest": "sha256:b82a873be9473670f38abe1d9a21a64877c445307d85dfd8d10dfd8d3e1f90d2",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-09-08T13:13:43Z",
       "updated_at": "2026-09-08T13:13:45Z",
       "browser_download_url": "https://github.com/kunchenguid/no-mistakes/releases/download/v1.72.0/no-mistakes-v1.72.0-darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14175878,
       "digest": "sha256:c3a38e95e050c30ee303806f22fbdc708f945e28d6b249d8e9540de65becb5c7",
-      "download_count": 329,
+      "download_count": 406,
       "created_at": "2026-09-08T13:13:08Z",
       "updated_at": "2026-09-08T13:13:09Z",
       "browser_download_url": "https://github.com/kunchenguid/no-mistakes/releases/download/v1.72.0/no-mistakes-v1.72.0-darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 14690035,
       "digest": "sha256:c226b69b8b8115827d2e438ea8b32eaff9b89291a1d2fddc5ef2449017b8d927",
-      "download_count": 241,
+      "download_count": 282,
       "created_at": "2026-09-08T13:13:06Z",
       "updated_at": "2026-09-08T13:13:07Z",
       "browser_download_url": "https://github.com/kunchenguid/no-mistakes/releases/download/v1.72.0/no-mistakes-v1.72.0-linux-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15080003,
       "digest": "sha256:451edff496423040f5540c3dcceabea4485dbb4eb58f06b440e4bad0cf12baa8",
-      "download_count": 38,
+      "download_count": 47,
       "created_at": "2026-09-08T13:12:57Z",
       "updated_at": "2026-09-08T13:12:58Z",
       "browser_download_url": "https://github.com/kunchenguid/no-mistakes/releases/download/v1.72.0/no-mistakes-v1.72.0-windows-amd64.zip"
