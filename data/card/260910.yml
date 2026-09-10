@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.74.0"
   latestRelease: "v1.72.0"
   latestPrerelease: "v1.74.0"
-  collectedAt: 2026-09-10T20:17:01Z
+  collectedAt: 2026-09-10T23:31:20Z
 timeline:
   created: 2026-04-05
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-09-10
 popularity:
-  star: 8394
+  star: 8398
   watcher: 63
   fork: 850
   release: 151
   contributor: 67
-  pullRequest: 793
+  pullRequest: 794
   issue: 248
 language:
   Go: 8424011
@@ -34,59 +34,59 @@ recent:
     release: 42
     mergedPR: 143
     openPR: 29
-    closedIssue: 40
-    openIssue: 69
+    closedIssue: 41
+    openIssue: 68
     commit: 150
   last60d:
     since: 2026-07-12
     release: 68
     mergedPR: 232
     openPR: 29
-    closedIssue: 74
-    openIssue: 110
+    closedIssue: 75
+    openIssue: 109
     commit: 235
   last90d:
     since: 2026-06-12
     release: 85
     mergedPR: 301
     openPR: 30
-    closedIssue: 112
-    openIssue: 119
+    closedIssue: 113
+    openIssue: 118
     commit: 302
   last180d:
     since: 2026-03-14
     release: 100
     mergedPR: 564
     openPR: 30
-    closedIssue: 126
-    openIssue: 122
+    closedIssue: 127
+    openIssue: 121
     commit: 654
   last360d:
     since: 2025-09-15
     release: 100
     mergedPR: 564
     openPR: 30
-    closedIssue: 126
-    openIssue: 122
+    closedIssue: 127
+    openIssue: 121
     commit: 654
   last720d:
     since: 2024-09-20
     release: 100
     mergedPR: 564
     openPR: 30
-    closedIssue: 126
-    openIssue: 122
+    closedIssue: 127
+    openIssue: 121
     commit: 655
 total:
   release: 151
   mergedPR: 564
   openPR: 30
-  closedIssue: 126
-  openIssue: 122
+  closedIssue: 127
+  openIssue: 121
   commit: 655
 ---
 path: /home/runner/.x-repo/github.com/kunchenguid/no-mistakes
-collectedAt: 2026-09-10T20:17:04Z
+collectedAt: 2026-09-10T23:31:23Z
 loc:
   Go:
     code: 201647
