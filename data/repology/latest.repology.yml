@@ -2,8 +2,8 @@
   srcname: no-mistakes-bin
   binname: no-mistakes-bin
   visiblename: no-mistakes-bin
-  version: 1.74.0
-  origversion: 1.74.0-1
+  version: 1.75.1
+  origversion: 1.75.1-1
   status: newest
   summary: Kill all the slop. Raise clean PR.
   maintainers:
