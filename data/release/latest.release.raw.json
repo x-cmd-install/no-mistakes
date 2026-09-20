@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 630,
       "digest": "sha256:1bfc9b882b4edc1c4c0ecc412102411be8ef50cedae6d3f429b80297ece755a6",
-      "download_count": 312,
+      "download_count": 622,
       "created_at": "2026-09-14T06:42:53Z",
       "updated_at": "2026-09-14T06:42:53Z",
       "browser_download_url": "https://github.com/kunchenguid/no-mistakes/releases/download/v1.75.2/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15504795,
       "digest": "sha256:623216c4d62bc2389952823141f8d4bee81aba347ffe80184ed237b8e5dc4955",
-      "download_count": 15,
+      "download_count": 30,
       "created_at": "2026-09-14T06:42:37Z",
       "updated_at": "2026-09-14T06:42:37Z",
       "browser_download_url": "https://github.com/kunchenguid/no-mistakes/releases/download/v1.75.2/no-mistakes-v1.75.2-darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14294418,
       "digest": "sha256:d4388422e773f7ef5e9c87afb35c1e3be0d572c8c8940f54fe6238e88366f2d3",
-      "download_count": 311,
+      "download_count": 785,
       "created_at": "2026-09-14T06:42:08Z",
       "updated_at": "2026-09-14T06:42:08Z",
       "browser_download_url": "https://github.com/kunchenguid/no-mistakes/releases/download/v1.75.2/no-mistakes-v1.75.2-darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 14819049,
       "digest": "sha256:1a0dbc50e7ca58dcaf39ecc05619ea55af7a32b5634272f5c3e1915c408bb8be",
-      "download_count": 264,
+      "download_count": 627,
       "created_at": "2026-09-14T06:42:01Z",
       "updated_at": "2026-09-14T06:42:02Z",
       "browser_download_url": "https://github.com/kunchenguid/no-mistakes/releases/download/v1.75.2/no-mistakes-v1.75.2-linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 13676553,
       "digest": "sha256:d5dd310a4811f5add117f80ea7a421f6c161a2666f5caca8c16606189c9157b9",
-      "download_count": 9,
+      "download_count": 26,
       "created_at": "2026-09-14T06:42:06Z",
       "updated_at": "2026-09-14T06:42:06Z",
       "browser_download_url": "https://github.com/kunchenguid/no-mistakes/releases/download/v1.75.2/no-mistakes-v1.75.2-linux-arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15208792,
       "digest": "sha256:bc4ee26b1d5da21a041e90def0492dd3e23e4c7cf151da1c87a9c11bddeaa824",
-      "download_count": 44,
+      "download_count": 93,
       "created_at": "2026-09-14T06:41:50Z",
       "updated_at": "2026-09-14T06:41:51Z",
       "browser_download_url": "https://github.com/kunchenguid/no-mistakes/releases/download/v1.75.2/no-mistakes-v1.75.2-windows-amd64.zip"
