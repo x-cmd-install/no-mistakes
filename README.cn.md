@@ -14,11 +14,11 @@ x install no-mistakes
 
 ## 代码洞察
 
-合计: **228,201** 行代码（覆盖前 5 种语言、共 **855** 个文件）。
+合计: **230,559** 行代码（覆盖前 5 种语言、共 **863** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 219,127 | 22,116 | 22,053 | 839 |
+| Go | 221,485 | 22,386 | 22,200 | 847 |
 | Json | 8,768 | 0 | 0 | 12 |
 | Sh | 117 | 22 | 26 | 2 |
 | Makefile | 86 | 19 | 17 | 1 |
@@ -32,40 +32,40 @@ x install no-mistakes
 
 ## 发布
 
-- **最新版本**: `v1.79.0` (2026-09-14)
-- **最近提交**: 2026-09-19
+- **最新版本**: `v1.80.0` (2026-09-19)
+- **最近提交**: 2026-09-20
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 8,567 · **Fork**: 891 · **开放 issue**: 277 · **贡献者**: 74
+- **Star**: 8,585 · **Fork**: 897 · **开放 issue**: 278 · **贡献者**: 76
 
 ## 累计统计
 
-- **发布数**: 160 · **已合并 PR**: 601 · **开放 PR**: 30 · **已关闭 issue**: 143 · **开放 issue**: 134 · **提交数**: 692
+- **发布数**: 161 · **已合并 PR**: 605 · **开放 PR**: 29 · **已关闭 issue**: 148 · **开放 issue**: 130 · **提交数**: 696
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 42 | 132 | 28 | 38 | 63 | 111 |
-| last60d | 2026-07-22 | 68 | 236 | 29 | 76 | 110 | 232 |
-| 90d | 2026-06-22 | 89 | 327 | 30 | 122 | 130 | 318 |
-| last180d | 2026-03-24 | 100 | 601 | 30 | 143 | 134 | 691 |
-| 360d | 2025-09-25 | 100 | 601 | 30 | 143 | 134 | 691 |
-| last720d | 2024-09-30 | 100 | 601 | 30 | 143 | 134 | 692 |
+| 30d | 2026-08-22 | 42 | 131 | 27 | 39 | 63 | 115 |
+| last60d | 2026-07-23 | 67 | 236 | 28 | 76 | 103 | 236 |
+| 90d | 2026-06-23 | 90 | 328 | 29 | 126 | 126 | 322 |
+| last180d | 2026-03-25 | 100 | 605 | 29 | 148 | 130 | 695 |
+| 360d | 2025-09-26 | 100 | 605 | 29 | 148 | 130 | 695 |
+| last720d | 2024-10-01 | 100 | 605 | 29 | 148 | 130 | 696 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/kunchenguid/no-mistakes/releases/download/v1.75.2/checksums.txt) | 630 B | `other` |
-| [no-mistakes-v1.75.2-darwin-amd64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.75.2/no-mistakes-v1.75.2-darwin-amd64.tar.gz) | 14.8 MiB | `native/darwin/x64` |
-| [no-mistakes-v1.75.2-darwin-arm64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.75.2/no-mistakes-v1.75.2-darwin-arm64.tar.gz) | 13.6 MiB | `native/darwin/arm64` |
-| [no-mistakes-v1.75.2-linux-amd64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.75.2/no-mistakes-v1.75.2-linux-amd64.tar.gz) | 14.1 MiB | `native/linux/x64` |
-| [no-mistakes-v1.75.2-linux-arm64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.75.2/no-mistakes-v1.75.2-linux-arm64.tar.gz) | 13.0 MiB | `native/linux/arm64` |
-| [no-mistakes-v1.75.2-windows-amd64.zip](https://github.com/kunchenguid/no-mistakes/releases/download/v1.75.2/no-mistakes-v1.75.2-windows-amd64.zip) | 14.5 MiB | `native/win/x64` |
-| [no-mistakes-v1.75.2-windows-arm64.zip](https://github.com/kunchenguid/no-mistakes/releases/download/v1.75.2/no-mistakes-v1.75.2-windows-arm64.zip) | 13.3 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/kunchenguid/no-mistakes/releases/download/v1.79.0/checksums.txt) | 630 B | `other` |
+| [no-mistakes-v1.79.0-darwin-amd64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.79.0/no-mistakes-v1.79.0-darwin-amd64.tar.gz) | 14.9 MiB | `native/darwin/x64` |
+| [no-mistakes-v1.79.0-darwin-arm64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.79.0/no-mistakes-v1.79.0-darwin-arm64.tar.gz) | 13.8 MiB | `native/darwin/arm64` |
+| [no-mistakes-v1.79.0-linux-amd64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.79.0/no-mistakes-v1.79.0-linux-amd64.tar.gz) | 14.3 MiB | `native/linux/x64` |
+| [no-mistakes-v1.79.0-linux-arm64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.79.0/no-mistakes-v1.79.0-linux-arm64.tar.gz) | 13.2 MiB | `native/linux/arm64` |
+| [no-mistakes-v1.79.0-windows-amd64.zip](https://github.com/kunchenguid/no-mistakes/releases/download/v1.79.0/no-mistakes-v1.79.0-windows-amd64.zip) | 14.6 MiB | `native/win/x64` |
+| [no-mistakes-v1.79.0-windows-arm64.zip](https://github.com/kunchenguid/no-mistakes/releases/download/v1.79.0/no-mistakes-v1.79.0-windows-arm64.zip) | 13.4 MiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ no-mistakes 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260920.yml` · 2026-09-20T02:46:03Z._
+_数据快照: `data/card/260921.yml` · 2026-09-21T02:43:26Z._
