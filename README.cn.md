@@ -32,40 +32,40 @@ x install no-mistakes
 
 ## 发布
 
-- **最新版本**: `v1.85.0` (2026-09-19)
+- **最新版本**: `v1.85.1` (2026-09-26)
 - **最近提交**: 2026-09-28
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 8,658 · **Fork**: 925 · **开放 issue**: 323 · **贡献者**: 84
+- **Star**: 8,674 · **Fork**: 928 · **开放 issue**: 327 · **贡献者**: 84
 
 ## 累计统计
 
-- **发布数**: 169 · **已合并 PR**: 645 · **开放 PR**: 25 · **已关闭 issue**: 168 · **开放 issue**: 155 · **提交数**: 736
+- **发布数**: 170 · **已合并 PR**: 646 · **开放 PR**: 31 · **已关闭 issue**: 168 · **开放 issue**: 159 · **提交数**: 737
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 41 | 142 | 21 | 42 | 79 | 127 |
-| last60d | 2026-07-30 | 73 | 261 | 24 | 89 | 120 | 247 |
-| 90d | 2026-06-30 | 92 | 351 | 25 | 134 | 149 | 344 |
-| last180d | 2026-04-01 | 100 | 645 | 25 | 168 | 155 | 734 |
-| 360d | 2025-10-03 | 100 | 645 | 25 | 168 | 155 | 735 |
-| last720d | 2024-10-08 | 100 | 645 | 25 | 168 | 155 | 736 |
+| 30d | 2026-08-30 | 40 | 141 | 27 | 39 | 81 | 128 |
+| last60d | 2026-07-31 | 73 | 260 | 30 | 89 | 124 | 248 |
+| 90d | 2026-07-01 | 93 | 351 | 31 | 133 | 153 | 345 |
+| last180d | 2026-04-02 | 100 | 646 | 31 | 168 | 159 | 735 |
+| 360d | 2025-10-04 | 100 | 646 | 31 | 168 | 159 | 736 |
+| last720d | 2024-10-09 | 100 | 646 | 31 | 168 | 159 | 737 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/kunchenguid/no-mistakes/releases/download/v1.79.0/checksums.txt) | 630 B | `other` |
-| [no-mistakes-v1.79.0-darwin-amd64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.79.0/no-mistakes-v1.79.0-darwin-amd64.tar.gz) | 14.9 MiB | `native/darwin/x64` |
-| [no-mistakes-v1.79.0-darwin-arm64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.79.0/no-mistakes-v1.79.0-darwin-arm64.tar.gz) | 13.8 MiB | `native/darwin/arm64` |
-| [no-mistakes-v1.79.0-linux-amd64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.79.0/no-mistakes-v1.79.0-linux-amd64.tar.gz) | 14.3 MiB | `native/linux/x64` |
-| [no-mistakes-v1.79.0-linux-arm64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.79.0/no-mistakes-v1.79.0-linux-arm64.tar.gz) | 13.2 MiB | `native/linux/arm64` |
-| [no-mistakes-v1.79.0-windows-amd64.zip](https://github.com/kunchenguid/no-mistakes/releases/download/v1.79.0/no-mistakes-v1.79.0-windows-amd64.zip) | 14.6 MiB | `native/win/x64` |
-| [no-mistakes-v1.79.0-windows-arm64.zip](https://github.com/kunchenguid/no-mistakes/releases/download/v1.79.0/no-mistakes-v1.79.0-windows-arm64.zip) | 13.4 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/checksums.txt) | 630 B | `other` |
+| [no-mistakes-v1.84.0-darwin-amd64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-darwin-amd64.tar.gz) | 15.1 MiB | `native/darwin/x64` |
+| [no-mistakes-v1.84.0-darwin-arm64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-darwin-arm64.tar.gz) | 13.9 MiB | `native/darwin/arm64` |
+| [no-mistakes-v1.84.0-linux-amd64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-linux-amd64.tar.gz) | 14.4 MiB | `native/linux/x64` |
+| [no-mistakes-v1.84.0-linux-arm64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-linux-arm64.tar.gz) | 13.3 MiB | `native/linux/arm64` |
+| [no-mistakes-v1.84.0-windows-amd64.zip](https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-windows-amd64.zip) | 14.8 MiB | `native/win/x64` |
+| [no-mistakes-v1.84.0-windows-arm64.zip](https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-windows-arm64.zip) | 13.5 MiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ no-mistakes 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T02:56:22Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T03:37:04Z._
