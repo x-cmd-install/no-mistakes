@@ -14,11 +14,11 @@ x install no-mistakes
 
 ## Code insight
 
-Total: **257,379** lines of code across **979** files in the top 5 languages.
+Total: **258,233** lines of code across **981** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 247,565 | 28,440 | 24,362 | 955 |
+| Go | 248,419 | 28,506 | 24,391 | 957 |
 | Json | 9,013 | 0 | 0 | 16 |
 | Sh | 284 | 27 | 34 | 4 |
 | Python | 214 | 5 | 13 | 3 |
@@ -32,28 +32,28 @@ Total: **257,379** lines of code across **979** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.88.0` (2026-09-26)
-- **Last commit**: 2026-10-05
+- **Latest**: `v1.89.0` (2026-09-26)
+- **Last commit**: 2026-10-06
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 8,746 · **Forks**: 942 · **Open issues**: 364 · **Contributors**: 92
+- **Stars**: 8,758 · **Forks**: 942 · **Open issues**: 373 · **Contributors**: 92
 
 ## Totals (cumulative)
 
-- **Releases**: 177 · **Merged PRs**: 678 · **Open PRs**: 39 · **Closed issues**: 193 · **Open issues**: 171 · **Commits**: 769
+- **Releases**: 178 · **Merged PRs**: 680 · **Open PRs**: 42 · **Closed issues**: 194 · **Open issues**: 179 · **Commits**: 771
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 36 | 134 | 36 | 44 | 87 | 113 |
-| last60d | 2026-08-07 | 70 | 263 | 38 | 102 | 130 | 267 |
-| 90d | 2026-07-08 | 98 | 360 | 38 | 144 | 162 | 350 |
-| last180d | 2026-04-09 | 100 | 678 | 39 | 193 | 171 | 642 |
-| 360d | 2025-10-11 | 100 | 678 | 39 | 193 | 171 | 768 |
-| last720d | 2024-10-16 | 100 | 678 | 39 | 193 | 171 | 769 |
+| 30d | 2026-09-07 | 35 | 125 | 39 | 43 | 94 | 115 |
+| last60d | 2026-08-08 | 70 | 263 | 41 | 103 | 138 | 269 |
+| 90d | 2026-07-09 | 99 | 362 | 41 | 142 | 169 | 352 |
+| last180d | 2026-04-10 | 100 | 679 | 42 | 194 | 179 | 644 |
+| 360d | 2025-10-12 | 100 | 680 | 42 | 194 | 179 | 770 |
+| last720d | 2024-10-17 | 100 | 680 | 42 | 194 | 179 | 771 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for no-mistakes lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T04:13:11Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T03:39:42Z._
