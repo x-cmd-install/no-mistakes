@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 630,
       "digest": "sha256:7bc01a59657ec55174cf4105a2daf836f432ad7960ae9b6da86bb41ed19e896c",
-      "download_count": 1705,
+      "download_count": 1793,
       "created_at": "2026-09-26T08:31:46Z",
       "updated_at": "2026-09-26T08:31:46Z",
       "browser_download_url": "https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15784617,
       "digest": "sha256:88b1a481924488f55456b3f96070f739b109e19555232e4f8be0a7ebae7c08ac",
-      "download_count": 81,
+      "download_count": 91,
       "created_at": "2026-09-26T08:31:30Z",
       "updated_at": "2026-09-26T08:31:32Z",
       "browser_download_url": "https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14553097,
       "digest": "sha256:2e5f838303ab727edccd1a60a4834068024606c68ae7d97fdc0fdeecd7bd4d90",
-      "download_count": 2157,
+      "download_count": 2274,
       "created_at": "2026-09-26T08:31:19Z",
       "updated_at": "2026-09-26T08:31:20Z",
       "browser_download_url": "https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15094729,
       "digest": "sha256:b0fb8a9df412c5fa1fb92a3584ffa1d4d5b4d6e0d1738efa2f8b88320f8bf1c2",
-      "download_count": 2451,
+      "download_count": 2637,
       "created_at": "2026-09-26T08:31:12Z",
       "updated_at": "2026-09-26T08:31:13Z",
       "browser_download_url": "https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 13931407,
       "digest": "sha256:8d8cefd927b7f921c207e4dd6c575081dc255dc068f0205f74b52e482bf2f7ab",
-      "download_count": 240,
+      "download_count": 256,
       "created_at": "2026-09-26T08:31:17Z",
       "updated_at": "2026-09-26T08:31:18Z",
       "browser_download_url": "https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-linux-arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15496472,
       "digest": "sha256:c379c9f1129a0d7e0569516cebfa62e7ed43b28ddaa9a3fa69b884cc3d75ea02",
-      "download_count": 479,
+      "download_count": 503,
       "created_at": "2026-09-26T08:31:17Z",
       "updated_at": "2026-09-26T08:31:18Z",
       "browser_download_url": "https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-windows-amd64.zip"
