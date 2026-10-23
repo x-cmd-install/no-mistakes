@@ -14,11 +14,11 @@ x install no-mistakes
 
 ## Code insight
 
-Total: **290,316** lines of code across **1101** files in the top 5 languages.
+Total: **290,617** lines of code across **1103** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 280,222 | 32,652 | 26,685 | 1076 |
+| Go | 280,523 | 32,724 | 26,709 | 1078 |
 | Json | 9,013 | 0 | 0 | 16 |
 | Sh | 564 | 81 | 58 | 5 |
 | Python | 214 | 5 | 13 | 3 |
@@ -32,28 +32,28 @@ Total: **290,316** lines of code across **1101** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.99.1` (2026-09-26)
-- **Last commit**: 2026-10-21
+- **Latest**: `v1.100.0` (2026-09-26)
+- **Last commit**: 2026-10-22
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 8,919 · **Forks**: 923 · **Open issues**: 453 · **Contributors**: 108
+- **Stars**: 8,929 · **Forks**: 924 · **Open issues**: 455 · **Contributors**: 108
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 759 · **Open PRs**: 46 · **Closed issues**: 250 · **Open issues**: 203 · **Commits**: 850
+- **Releases**: 192 · **Merged PRs**: 760 · **Open PRs**: 50 · **Closed issues**: 252 · **Open issues**: 203 · **Commits**: 851
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 29 | 140 | 40 | 73 | 93 | 132 |
-| last60d | 2026-08-23 | 70 | 280 | 45 | 127 | 146 | 280 |
-| 90d | 2026-07-24 | 96 | 384 | 45 | 172 | 177 | 390 |
-| last180d | 2026-04-25 | 100 | 613 | 46 | 246 | 202 | 615 |
-| 360d | 2025-10-27 | 100 | 759 | 46 | 250 | 203 | 849 |
-| last720d | 2024-11-01 | 100 | 759 | 46 | 250 | 203 | 850 |
+| 30d | 2026-09-23 | 29 | 138 | 44 | 71 | 90 | 133 |
+| last60d | 2026-08-24 | 70 | 280 | 49 | 128 | 146 | 281 |
+| 90d | 2026-07-25 | 96 | 384 | 49 | 172 | 177 | 391 |
+| last180d | 2026-04-26 | 100 | 614 | 50 | 247 | 202 | 616 |
+| 360d | 2025-10-28 | 100 | 760 | 50 | 252 | 203 | 850 |
+| last720d | 2024-11-02 | 100 | 760 | 50 | 252 | 203 | 851 |
 
 ## Release assets
 
@@ -67,6 +67,10 @@ Total: **290,316** lines of code across **1101** files in the top 5 languages.
 | [no-mistakes-v1.84.0-windows-amd64.zip](https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-windows-amd64.zip) | 14.8 MiB | `native/win/x64` |
 | [no-mistakes-v1.84.0-windows-arm64.zip](https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-windows-arm64.zip) | 13.5 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **2** distros on [repology.org](https://repology.org/project/no-mistakes). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
 ## Improve this data
 
 Install metadata for no-mistakes lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `no-mistakes` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -76,4 +80,4 @@ Install metadata for no-mistakes lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T02:47:29Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T02:50:51Z._
