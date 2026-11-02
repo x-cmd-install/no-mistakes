@@ -14,11 +14,11 @@ x install no-mistakes
 
 ## Code insight
 
-Total: **306,265** lines of code across **1176** files in the top 5 languages.
+Total: **308,137** lines of code across **1182** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 296,167 | 33,930 | 27,659 | 1151 |
+| Go | 298,039 | 34,017 | 27,769 | 1157 |
 | Json | 9,013 | 0 | 0 | 16 |
 | Sh | 564 | 81 | 58 | 5 |
 | Python | 214 | 5 | 13 | 3 |
@@ -32,40 +32,40 @@ Total: **306,265** lines of code across **1176** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.106.1` (2026-09-26)
-- **Last commit**: 2026-10-31
+- **Latest**: `v1.107.1` (2026-10-31)
+- **Last commit**: 2026-11-01
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 9,074 · **Forks**: 943 · **Open issues**: 480 · **Contributors**: 118
+- **Stars**: 9,090 · **Forks**: 945 · **Open issues**: 481 · **Contributors**: 119
 
 ## Totals (cumulative)
 
-- **Releases**: 202 · **Merged PRs**: 815 · **Open PRs**: 55 · **Closed issues**: 291 · **Open issues**: 189 · **Commits**: 906
+- **Releases**: 204 · **Merged PRs**: 823 · **Open PRs**: 56 · **Closed issues**: 293 · **Open issues**: 188 · **Commits**: 914
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 29 | 145 | 45 | 75 | 66 | 156 |
-| last60d | 2026-09-02 | 70 | 300 | 52 | 139 | 123 | 311 |
-| 90d | 2026-08-03 | 98 | 410 | 54 | 197 | 160 | 421 |
-| last180d | 2026-05-05 | 100 | 653 | 55 | 285 | 188 | 663 |
-| 360d | 2025-11-06 | 100 | 814 | 55 | 291 | 189 | 905 |
-| last720d | 2024-11-11 | 100 | 814 | 55 | 291 | 189 | 906 |
+| 30d | 2026-10-03 | 30 | 151 | 45 | 75 | 64 | 131 |
+| last60d | 2026-09-03 | 71 | 300 | 53 | 139 | 122 | 264 |
+| 90d | 2026-08-04 | 99 | 415 | 55 | 197 | 158 | 417 |
+| last180d | 2026-05-06 | 100 | 659 | 56 | 287 | 187 | 654 |
+| 360d | 2025-11-07 | 100 | 822 | 56 | 293 | 188 | 913 |
+| last720d | 2024-11-12 | 100 | 822 | 56 | 293 | 188 | 914 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/checksums.txt) | 630 B | `other` |
-| [no-mistakes-v1.84.0-darwin-amd64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-darwin-amd64.tar.gz) | 15.1 MiB | `native/darwin/x64` |
-| [no-mistakes-v1.84.0-darwin-arm64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-darwin-arm64.tar.gz) | 13.9 MiB | `native/darwin/arm64` |
-| [no-mistakes-v1.84.0-linux-amd64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-linux-amd64.tar.gz) | 14.4 MiB | `native/linux/x64` |
-| [no-mistakes-v1.84.0-linux-arm64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-linux-arm64.tar.gz) | 13.3 MiB | `native/linux/arm64` |
-| [no-mistakes-v1.84.0-windows-amd64.zip](https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-windows-amd64.zip) | 14.8 MiB | `native/win/x64` |
-| [no-mistakes-v1.84.0-windows-arm64.zip](https://github.com/kunchenguid/no-mistakes/releases/download/v1.84.0/no-mistakes-v1.84.0-windows-arm64.zip) | 13.5 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/kunchenguid/no-mistakes/releases/download/v1.106.1/checksums.txt) | 636 B | `other` |
+| [no-mistakes-v1.106.1-darwin-amd64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.106.1/no-mistakes-v1.106.1-darwin-amd64.tar.gz) | 16.0 MiB | `native/darwin/x64` |
+| [no-mistakes-v1.106.1-darwin-arm64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.106.1/no-mistakes-v1.106.1-darwin-arm64.tar.gz) | 14.7 MiB | `native/darwin/arm64` |
+| [no-mistakes-v1.106.1-linux-amd64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.106.1/no-mistakes-v1.106.1-linux-amd64.tar.gz) | 15.3 MiB | `native/linux/x64` |
+| [no-mistakes-v1.106.1-linux-arm64.tar.gz](https://github.com/kunchenguid/no-mistakes/releases/download/v1.106.1/no-mistakes-v1.106.1-linux-arm64.tar.gz) | 14.1 MiB | `native/linux/arm64` |
+| [no-mistakes-v1.106.1-windows-amd64.zip](https://github.com/kunchenguid/no-mistakes/releases/download/v1.106.1/no-mistakes-v1.106.1-windows-amd64.zip) | 15.7 MiB | `native/win/x64` |
+| [no-mistakes-v1.106.1-windows-arm64.zip](https://github.com/kunchenguid/no-mistakes/releases/download/v1.106.1/no-mistakes-v1.106.1-windows-arm64.zip) | 14.4 MiB | `native/win/arm64` |
 
 ## Distribution status
 
@@ -80,4 +80,4 @@ Install metadata for no-mistakes lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T03:42:14Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T03:46:45Z._
