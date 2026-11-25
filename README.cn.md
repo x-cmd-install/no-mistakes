@@ -38,22 +38,22 @@ x install no-mistakes
 
 ## 流行度
 
-- **Star**: 9,288 · **Fork**: 956 · **开放 issue**: 548 · **贡献者**: 130
+- **Star**: 9,293 · **Fork**: 954 · **开放 issue**: 549 · **贡献者**: 130
 
 ## 累计统计
 
-- **发布数**: 208 · **已合并 PR**: 877 · **开放 PR**: 76 · **已关闭 issue**: 345 · **开放 issue**: 203 · **提交数**: 969
+- **发布数**: 208 · **已合并 PR**: 877 · **开放 PR**: 75 · **已关闭 issue**: 345 · **开放 issue**: 204 · **提交数**: 969
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 14 | 88 | 39 | 28 | 49 | 72 |
-| last60d | 2026-09-25 | 42 | 234 | 69 | 131 | 110 | 228 |
-| 90d | 2026-08-26 | 84 | 388 | 74 | 207 | 155 | 377 |
-| last180d | 2026-05-28 | 100 | 656 | 76 | 339 | 202 | 662 |
-| 360d | 2025-11-29 | 100 | 875 | 76 | 345 | 203 | 967 |
-| last720d | 2024-12-04 | 100 | 875 | 76 | 345 | 203 | 969 |
+| 30d | 2026-10-26 | 13 | 81 | 35 | 28 | 49 | 72 |
+| last60d | 2026-09-26 | 41 | 229 | 68 | 126 | 111 | 228 |
+| 90d | 2026-08-27 | 82 | 382 | 73 | 201 | 154 | 377 |
+| last180d | 2026-05-29 | 100 | 654 | 75 | 339 | 203 | 662 |
+| 360d | 2025-11-30 | 100 | 875 | 75 | 345 | 204 | 967 |
+| last720d | 2024-12-05 | 100 | 875 | 75 | 345 | 204 | 969 |
 
 ## Release 资产
 
@@ -67,10 +67,6 @@ x install no-mistakes
 | [no-mistakes-v1.106.1-windows-amd64.zip](https://github.com/kunchenguid/no-mistakes/releases/download/v1.106.1/no-mistakes-v1.106.1-windows-amd64.zip) | 15.7 MiB | `native/win/x64` |
 | [no-mistakes-v1.106.1-windows-arm64.zip](https://github.com/kunchenguid/no-mistakes/releases/download/v1.106.1/no-mistakes-v1.106.1-windows-arm64.zip) | 14.4 MiB | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/no-mistakes) 上共有 **2** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
-
 ## 改进这些数据
 
 no-mistakes 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `no-mistakes` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -80,4 +76,4 @@ no-mistakes 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T07:51:54Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T06:25:34Z._
